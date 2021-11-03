@@ -11,7 +11,7 @@ class MainModel extends CI_Model{
 		 // $this->db->where('username',$user);
 		 // $this->db->where('password',$pass);
 		 // $query = $this->db->get('users');
-		$query = $this->db->query("SELECT * FROM users where username = "+$user+";");
+		//$query = $this->db->query("SELECT * FROM users where username = "+$user+";");
 
 
 

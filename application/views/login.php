@@ -31,7 +31,10 @@
 						$error1;}?></span>
 			</center>
 
-            <div class="form-group"><!-- <a href="homepage.html" class="btn btn-primary btn-block">Log In</a> --><input type="submit" name="" value="Login" class="btn btn-primary btn-block	"></div><a href="#" class="forgot">Forgot your email or password?</a>
+            <div class="form-group"><!-- <a href="homepage.html" class="btn btn-primary btn-block">Log In</a> -->
+			<a href="landingpage"><input type="submit" name="" value="Login" class="btn btn-primary btn-block	"></a>
+			</div><a href="#" class="forgot">Forgot your email or password?</a>
+			
         </form>
     	</div>
 
