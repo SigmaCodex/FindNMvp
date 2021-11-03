@@ -5,24 +5,24 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>FindN</title>
+  <title>Ninestars Bootstrap Template - Index</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <!-- <link href="assets2/img/favicon.png" rel="icon">
-  <link href="assets2/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,600,600i,700,700i" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
-  <link href="assets2/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets2/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets2/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets2/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets2/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets2/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
   <link href="assets2/css/style.css" rel="stylesheet">
@@ -36,9 +36,9 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <h1 class="text-light"><a href="#"><span>FindN</span></a></h1>
+        <h1 class="text-light"><a href="index.html"><span>Ninestars</span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets2/img/logo.png" alt="" class="img-fluid"></a>-->
+        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
 
       <nav id="navbar" class="navbar">
@@ -80,14 +80,14 @@
     <div class="container">
       <div class="row gy-4">
         <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1>Bettter digital experience with FindN</h1>
-          <h2>With just one tap</h2>
+          <h1>Bettter digital experience with Ninestars</h1>
+          <h2>We are team of talented designers making websites with Bootstrap</h2>
           <div>
             <a href="#about" class="btn-get-started scrollto">Get Started</a>
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img">
-          <img src="assets2/img/hero-img.svg" class="img-fluid animated" alt="">
+          <img src="assets/img/hero-img.svg" class="img-fluid animated" alt="">
         </div>
       </div>
     </div>
@@ -102,23 +102,23 @@
 
         <div class="row justify-content-between">
           <div class="col-lg-5 d-flex align-items-center justify-content-center about-img">
-            <img src="assets2/img/about-img.svg" class="img-fluid" alt="" data-aos="zoom-in">
+            <img src="assets/img/about-img.svg" class="img-fluid" alt="" data-aos="zoom-in">
           </div>
           <div class="col-lg-6 pt-5 pt-lg-0">
-            <h3 data-aos="fade-up">We are here to help you find the computer shop you need</h3>
+            <h3 data-aos="fade-up">Voluptatem dignissimos provident quasi</h3>
             <p data-aos="fade-up" data-aos-delay="100">
-              All you need to do is one tap us and give us your call!
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
             </p>
             <div class="row">
               <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
                 <i class="bx bx-receipt"></i>
-                <h4>Real time</h4>
-                <p>Provide you up-to-date details and information on waiting and active computer shops</p>
+                <h4>Corporis voluptates sit</h4>
+                <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
               </div>
               <div class="col-md-6" data-aos="fade-up" data-aos-delay="200">
                 <i class="bx bx-cube-alt"></i>
-                <h4>Quickie</h4>
-                <p>Reply fast. Response fast.</p>
+                <h4>Ullamco laboris nisi</h4>
+                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
               </div>
             </div>
           </div>
@@ -133,14 +133,14 @@
 
         <div class="section-title">
           <h2>Services</h2>
-          <p>Check out the services we offer</p>
+          <p>Check out the great services we offer</p>
         </div>
 
         <div class="row">
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="">Reservation</a></h4>
+              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
               <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate</p>
             </div>
           </div>
@@ -148,7 +148,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4 class="title"><a href="">Printing</a></h4>
+              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
               <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</p>
             </div>
           </div>
@@ -156,7 +156,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">Booking</a></h4>
+              <h4 class="title"><a href="">Magni Dolores</a></h4>
               <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim</p>
             </div>
           </div>
@@ -164,7 +164,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="400">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-world"></i></div>
-              <h4 class="title"><a href="">Customer Service</a></h4>
+              <h4 class="title"><a href="">Nemo Enim</a></h4>
               <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum</p>
             </div>
           </div>
@@ -198,10 +198,10 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets2/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets2/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bi bi-link"></i></a>
+                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bi bi-plus"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
               </div>
               <div class="portfolio-info">
                 <h4>App 1</h4>
@@ -212,10 +212,10 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets2/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets2/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bi bi-link"></i></a>
+                <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bi bi-plus"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
               </div>
               <div class="portfolio-info">
                 <h4>Web 3</h4>
@@ -226,10 +226,10 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets2/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets2/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bi bi-link"></i></a>
+                <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bi bi-plus"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
               </div>
               <div class="portfolio-info">
                 <h4>App 2</h4>
@@ -240,10 +240,10 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets2/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets2/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bi bi-link"></i></a>
+                <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bi bi-plus"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
               </div>
               <div class="portfolio-info">
                 <h4>Card 2</h4>
@@ -254,10 +254,10 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets2/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets2/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bi bi-link"></i></a>
+                <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bi bi-plus"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
               </div>
               <div class="portfolio-info">
                 <h4>Web 2</h4>
@@ -268,10 +268,10 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets2/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets2/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bi bi-link"></i></a>
+                <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bi bi-plus"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
               </div>
               <div class="portfolio-info">
                 <h4>App 3</h4>
@@ -282,10 +282,10 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets2/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets2/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bi bi-link"></i></a>
+                <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bi bi-plus"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
               </div>
               <div class="portfolio-info">
                 <h4>Card 1</h4>
@@ -296,10 +296,10 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets2/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets2/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bi bi-link"></i></a>
+                <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bi bi-plus"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
               </div>
               <div class="portfolio-info">
                 <h4>Card 3</h4>
@@ -310,10 +310,10 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets2/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets2/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bi bi-link"></i></a>
+                <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bi bi-plus"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
               </div>
               <div class="portfolio-info">
                 <h4>Web 3</h4>
@@ -410,7 +410,7 @@
 
           <div class="col-xl-3 col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="100">
             <div class="member">
-              <img src="assets2/img/team/team-1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Walter White</h4>
@@ -428,7 +428,7 @@
 
           <div class="col-xl-3 col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
             <div class="member">
-              <img src="assets2/img/team/team-2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Sarah Jhonson</h4>
@@ -446,7 +446,7 @@
 
           <div class="col-xl-3 col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
             <div class="member">
-              <img src="assets2/img/team/team-3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>William Anderson</h4>
@@ -464,7 +464,7 @@
 
           <div class="col-xl-3 col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
             <div class="member">
-              <img src="assets2/img/team/team-4.jpg" class="img-fluid" alt="">
+              <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Amanda Jepson</h4>
@@ -496,14 +496,14 @@
 
         <div class="clients-slider swiper" data-aos="fade-up" data-aos-delay="100">
           <div class="swiper-wrapper align-items-center">
-            <div class="swiper-slide"><img src="assets2/img/clients/client-1.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets2/img/clients/client-2.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets2/img/clients/client-3.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets2/img/clients/client-4.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets2/img/clients/client-5.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets2/img/clients/client-6.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets2/img/clients/client-7.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets2/img/clients/client-8.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-1.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-2.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-3.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-4.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-5.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid" alt=""></div>
           </div>
           <div class="swiper-pagination"></div>
         </div>
@@ -527,13 +527,13 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>A108 Char Street, New Char, NY 696969</p>
+                <p>A108 Adam Street, New York, NY 535022</p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>char@example.com</p>
+                <p>info@example.com</p>
               </div>
 
               <div class="phone">
@@ -605,13 +605,13 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>FindN</h3>
+            <h3>Ninestars</h3>
             <p>
-              A108 Char Street <br>
-              New Char, NY 696969<br>
-              United Char <br><br>
+              A108 Adam Street <br>
+              New York, NY 535022<br>
+              United States <br><br>
               <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> char@example.com<br>
+              <strong>Email:</strong> info@example.com<br>
             </p>
           </div>
 
@@ -655,14 +655,14 @@
 
     <div class="container py-4">
       <div class="copyright">
-        &copy; Copyright <strong><span>FindN</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>Ninestars</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/ninestars-free-bootstrap-3-theme-for-creative/ -->
-        <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
       </div>
     </div>
   </footer><!-- End Footer -->
@@ -670,15 +670,15 @@
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
-  <script src="assets2/vendor/aos/aos.js"></script>
-  <script src="assets2/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets2/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets2/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets2/vendor/php-email-form/validate.js"></script>
-  <script src="assets2/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
 
   <!-- Template Main JS File -->
-  <script src="assets2/js/main.js"></script>
+  <script src="assets/js/main.js"></script>
 
 </body>
 
